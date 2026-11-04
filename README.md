@@ -3,6 +3,9 @@
 Android project built from Big Nerd Ranch Guide, 3rd Edition, extended as an internal
 security awareness training application.
 
+
+
+
 ## Purpose
 
 This repository is used by the team for hands-on OWASP Top 10 training exercises.
